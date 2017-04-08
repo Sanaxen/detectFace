@@ -1,0 +1,8 @@
+https://github.com/opencv/opencv/releases/tag/3.1.0
+
+install
+	opencv-3.1.0.exe
+
+=>C:\dev\opencv -> rename  C:\dev\opencv-3.1.0
+
+Add Path C:\dev\opencv-3.1.0\build\bin
